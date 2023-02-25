@@ -8,4 +8,4 @@ The data set consists of over 5,000 labeled emails, with approximately 75% of th
 Before the emails are fed into the model, they undergo a preprocessing step. This includes removing stop words, stemming, and converting all text to lowercase.
 
 # Result :
-The model achieves an accuracy of approximately 98% on the test dataset. This indicates that the model is very good at distinguishing between spam and non-spam emails.
+The model achieves an accuracy of approximately 97% on the test dataset. This indicates that the model is very good at distinguishing between spam and non-spam emails.
